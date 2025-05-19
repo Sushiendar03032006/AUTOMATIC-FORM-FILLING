@@ -1,8 +1,4 @@
 # Exercise-8-Basic-Web-Automation---Fill-a-Web-Form
-~~~
-Name : Thamizh.S
-Reg.No : 212224040350
-~~~
 
 ## Aim
 To create a UiPath workflow that automates the process of filling out a basic contact form on a website and submits the form using Web Automation techniques.
